@@ -4,7 +4,7 @@ Sistema de feedback de clientes, o cliente, acessa e dá as suas sugestões e o 
 
 ## Vantagens
 
-Conhecer melhor o seu público, colher feedback, e fidelizar o cliente.
+Conhecer melhor seu público, colher feedback, e fidelizar o cliente.
 [Link](https://github.com/tcretton/PalpiteBox/edit/main/README.md).
 
 ## Build With
