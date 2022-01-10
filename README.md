@@ -1,6 +1,6 @@
 # PalpiteBox
 
-Sistema simples de feedback de clientes, o cliente final, acessa e dá as suas sugestões e o feedback, em troca lele recebe um cupom, de desconto ou uma condição especial e entra no progrma de fidelidade.
+Sistema de feedback de clientes, o cliente, acessa e dá as suas sugestões e o feedback, em troca lele recebe um cupom, de desconto ou uma condição especial e entra no progrma de fidelidade.
 
 ## Vantagens
 
