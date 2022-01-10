@@ -6,8 +6,11 @@ const Contato = () => {
     <div>
       <h1>Contato</h1>
       <div>
-        <Link href='/contato'>
-          <a>Contato</a>
+        <Link href='/'>
+          <a>Home</a>
+        </Link>
+        <Link href='/sobre'>
+          <a>Sobre</a>
         </Link>
       </div>
     </div>
