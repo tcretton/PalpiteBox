@@ -10,10 +10,8 @@ Conhecer melhor seu público, colher feedback, e fidelizar o cliente.
 ## Build With
 
 Planinha do Google, como DB & Dashboard.
-
 [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Support or Contact
 
-[Documentation](https://docs.github.com/categories/github-pages-basics/)
-[Contact support](https://support.github.com/contact)
+Consulte a [documentação](https://docs.github.com/categories/github-pages-basics/) ou entre em contato com nosso [Suporte.](https://support.github.com/contact)
