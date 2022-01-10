@@ -9,6 +9,9 @@ const Sobre = () => {
       <Link href='/'>
         <a>Home</a>
       </Link>
+      <Link href='/contato'>
+        <a>Contato</a>
+      </Link>
     </div>
   
   </div>
