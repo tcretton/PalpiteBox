@@ -1,8 +1,12 @@
 import React from 'react'
+import '../css/styles.css'
 
-const MyApp = () => {
+const MyApp = ({Component, pageProps}) => {
   return(
-    <h1>My App</h1>
+    <div>
+      <h1 className='bg-red-900'>My App</h1>
+      <Component {...pageProps}></Component> 
+    </div>
   )
 }
 
