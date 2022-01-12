@@ -5,7 +5,7 @@ import Header from '../components/Header'
 const MyApp = ({Component, pageProps}) => {
   return(
   <div>
-    
+    <Header></Header>
     <div className='container mx-auto'>
       <Component {...pageProps}></Component>
     </div> 
