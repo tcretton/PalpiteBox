@@ -6,12 +6,7 @@ const Index =() => {
     <div>
       <h1>Home - Olá Semana FullStack Master</h1>
         <div>
-          <Link href='/sobre'>
-            <a>Sobre</a>
-          </Link>
-          <Link href='/contato'>
-            <a>Contato</a>
-          </Link>
+          ffff
         </div>
     </div>
   )

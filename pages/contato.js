@@ -6,12 +6,7 @@ const Contato = () => {
     <div>
       <h1>Contato</h1>
       <div>
-        <Link href='/'>
-          <a>Home</a>
-        </Link>
-        <Link href='/sobre'>
-          <a>Sobre</a>
-        </Link>
+         
       </div>
     </div>
   )
