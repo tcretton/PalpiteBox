@@ -8,7 +8,8 @@ const MyApp = ({Component, pageProps}) => {
     <Header></Header>
     <div className='container mx-auto'>
       <Component {...pageProps}></Component>
-    </div> 
+    </div>
+    
   </div>
   )
 }
