@@ -11,7 +11,10 @@ return (
     <a className='hover:underline' href='https://github.com/tcretton'>Github</a>
     <br></br>
     <a className='hover:underline' href='https://devpleno.com'> No curso FullStack Master - Devpleno.com</a>
-    <img src=''></img>
+    <div className='mt-2'>
+      <img className='inline p-4' src='/logo_semana_fsm.png'></img>
+      <img className='inline p-4' src='/logo_devpleno.png'></img>
+    </div>
   </div>
 </div>
 )
