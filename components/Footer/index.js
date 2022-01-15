@@ -9,7 +9,7 @@ return (
     <a className='hover:underline' href='https://cretton.info'>Tércio Cretton</a> {' '}
     <a className='hover:underline' href='https://linkedin.com/in/tercio-cretton'>Linkedin</a>{' '}
     <a className='hover:underline' href='https://github.com/tcretton'>Github</a>
-    </br>
+    <br></br>
     <a className='hover:underline' href='https://devpleno.com'> No curso FullStack Master - Devpleno.com</a>
   </div>
 </div>
