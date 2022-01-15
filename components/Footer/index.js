@@ -11,6 +11,7 @@ return (
     <a className='hover:underline' href='https://github.com/tcretton'>Github</a>
     <br></br>
     <a className='hover:underline' href='https://devpleno.com'> No curso FullStack Master - Devpleno.com</a>
+    <img src=''></img>
   </div>
 </div>
 )
