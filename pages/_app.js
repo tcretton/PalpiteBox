@@ -6,11 +6,15 @@ import Footer from '../components/Footer'
 const MyApp = ({Component, pageProps}) => {
   return(
   <div>
-    <Header></Header>
+    <Header>
+
+    </Header>
     <div className='container mx-auto'>
       <Component {...pageProps}></Component>
     </div>
-    <Footer></Footer>
+    <Footer>
+      
+    </Footer>
   </div>
   )
 }
