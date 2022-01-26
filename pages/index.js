@@ -10,7 +10,7 @@ const Index =() => {
       </p>
       <div>
         <Link href='/pesquisa'>
-          <a>Dar opnião ou sugestão</a>
+          <a>De opnião ou sugestão !</a>
         </Link>
       </div>
     </div>
