@@ -8,9 +8,9 @@ const Index =() => {
         O restaurante X sempre busca atender melhor seus clientes.<br/>
         Sua opnião é muito importante para nós.
       </p>
-      <div>
+      <div className='text-center'>
         <Link href='/pesquisa'>
-          <a>De opnião ou sugestão !</a>
+          <a className='bg-blue-700 px-6 py-4'>De opnião ou sugestão !</a>
         </Link>
       </div>
     </div>
