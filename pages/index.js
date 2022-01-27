@@ -8,7 +8,7 @@ const Index =() => {
         O restaurante X sempre busca atender melhor seus clientes.<br/>
         Sua opnião é muito importante para nós.
       </p>
-      <div className='text-center'>
+      <div className='text-center mt-12'>
         <Link href='/pesquisa'>
           <a className='bg-blue-700 px-6 py-4'>De opnião ou sugestão !</a>
         </Link>
