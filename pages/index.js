@@ -14,7 +14,7 @@ const Index =() => {
         </Link>
       </div>
       <p className='my-6 text-center'>
-       Mensagem do desconto !
+        Mensagem do desconto !
       </p>
     </div>
   )
