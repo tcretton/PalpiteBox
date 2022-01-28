@@ -13,7 +13,7 @@ const Index =() => {
           <a className='bg-blue-800 px-6 py-4 font-bold rounded-lg shadow-lg'>De opnião ou sugestão !</a>
         </Link>
       </div>
-      <p className='mt-12 text-center'>
+      <p className='my-6 text-center'>
        Mensagem do desconto !
       </p>
     </div>
