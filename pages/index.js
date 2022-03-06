@@ -5,8 +5,8 @@ const Index =() => {
   return (
     <div>
       <p className='mt-12 text-center'>
-        O restaurante X sempre busca atender melhor seus clientes.<br/>
-        Sua opnião é muito importante para nós.
+        Visando a melhoria dos nossos serviços, gostariamos de saber a sua opnião sobre nossa equipe e serviços.<br/>
+        Sua opnião é importante pra lhe atender melhor na sua visita a nossa cidade.
       </p>
       <div className='text-center my-12'>
         <Link href='/pesquisa'>
