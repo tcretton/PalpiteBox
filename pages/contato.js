@@ -6,7 +6,7 @@ const Contato = () => {
     <div>
       <h1>Contato</h1>
       <div>
-         
+         <h2>Fale Conosco</h2>
       </div>
     </div>
   )
